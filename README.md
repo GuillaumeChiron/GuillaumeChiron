@@ -13,10 +13,6 @@ Je m'intéresse particulièrement au développement backend, à l'architecture l
 
 ---
 
-## À propos
-
-Je développe des applications frontend et backend, en accordant une attention particulière aux bonnes pratiques, à la maintenabilité et à l'apprentissage de nouvelles technologies. Je m'intéresse également à l'automatisation et à la veille technique.
-
 ## Stack Technique
 
 | Domaine | Technologies |
