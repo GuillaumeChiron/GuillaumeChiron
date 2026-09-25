@@ -83,7 +83,7 @@ Développement d'un site vitrine pour une carrosserie automobile, destiné à pr
 
 ---
 
-## Autres porjets
+## Autres projets
 
 | Projet | Description | Stack |
 | --- | --- | --- |
