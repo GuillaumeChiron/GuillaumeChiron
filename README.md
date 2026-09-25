@@ -13,11 +13,11 @@ Je m'intéresse particulièrement au développement backend, à l'architecture l
 
 ---
 
-## About me
+## À propos
 
 Je développe des applications frontend et backend, en accordant une attention particulière aux bonnes pratiques, à la maintenabilité et à l'apprentissage de nouvelles technologies. Je m'intéresse également à l'automatisation et à la veille technique.
 
-## Tech stack
+## Stack Technique
 
 | Domaine | Technologies |
 | --- | --- |
@@ -28,7 +28,7 @@ Je développe des applications frontend et backend, en accordant une attention p
 
 ---
 
-## Featured projects
+## Projets
 
 ### [SoftDesk](https://github.com/GuillaumeChiron/SoftDesk)
 **API REST sécurisée**  
@@ -87,7 +87,7 @@ Développement d'un site vitrine pour une carrosserie automobile, destiné à pr
 
 ---
 
-## Other projects
+## Autres porjets
 
 | Projet | Description | Stack |
 | --- | --- | --- |
