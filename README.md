@@ -30,5 +30,5 @@ En cours...
 
 ## Me contacter
 
-- LinkedIn : [Mon profil](URL_LINKEDIN)
-- Email : ton-email@example.com
+- LinkedIn : [Mon profil](https://www.linkedin.com/in/guillaume-chiron-a308a7256/)
+- Email : guillaumechiron4@gmail.com
