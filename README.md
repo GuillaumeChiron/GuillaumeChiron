@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**GuillaumeChiron/GuillaumeChiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bonjour, moi c'est Guillaume 👋
+
+### Développeur logiciel
+
+Je développe des applications web, des API REST et
+des projets Python.
+
+## À propos de moi
+
+- Formation en développement logiciel
+- Intérêt pour le développement backend et frontend
+- Passionné par l'architecture logicielle et l'automatisation
+
+## Compétences
+
+**Backend :** Python, Django, Django REST Framework
+
+**Frontend :** Vue.js, TypeScript, HTML, CSS, Tailwind
+
+**Bases de données :** MySQL, PostgreSQL, SQLite
+
+**Outils :** Git, GitHub, Docker, VS Code
+
+## Mes projets
+
+En cours...
+
+## Me contacter
+
+- LinkedIn : [Mon profil](URL_LINKEDIN)
+- Email : ton-email@example.com
